@@ -1,0 +1,29 @@
+{
+  "name": "dark-horse-thing-pingable",
+  "version": "0.1.0",
+  "description": "A Dark Horse device that is pingable",
+  "main": "Pingable.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bergos/dark-horse-thing-pingable.git"
+  },
+  "keywords": [
+    "mediola"
+  ],
+  "author": "Thomas Bergwinkl <bergi@axolotlfarm.org> (https://www.bergnet.org/people/bergi/card#me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bergos/dark-horse-thing-pingable/issues"
+  },
+  "homepage": "https://github.com/bergos/dark-horse-thing-pingable",
+  "dependencies": {
+    "dark-horse-thing": "git://github.com/bergos/dark-horse-thing.git#master"
+  },
+  "devDependencies": {
+    "standard": "^7.1.2"
+  },
+  "readmeFilename": "README.md"
+}
